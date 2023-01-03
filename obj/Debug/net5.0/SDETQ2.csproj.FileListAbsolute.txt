@@ -1,0 +1,16 @@
+C:\Users\rachelg\source\repos\SDETQ2\bin\Debug\net5.0\SDETQ2.exe
+C:\Users\rachelg\source\repos\SDETQ2\bin\Debug\net5.0\SDETQ2.deps.json
+C:\Users\rachelg\source\repos\SDETQ2\bin\Debug\net5.0\SDETQ2.runtimeconfig.json
+C:\Users\rachelg\source\repos\SDETQ2\bin\Debug\net5.0\SDETQ2.runtimeconfig.dev.json
+C:\Users\rachelg\source\repos\SDETQ2\bin\Debug\net5.0\SDETQ2.dll
+C:\Users\rachelg\source\repos\SDETQ2\bin\Debug\net5.0\ref\SDETQ2.dll
+C:\Users\rachelg\source\repos\SDETQ2\bin\Debug\net5.0\SDETQ2.pdb
+C:\Users\rachelg\source\repos\SDETQ2\obj\Debug\net5.0\SDETQ2.csproj.AssemblyReference.cache
+C:\Users\rachelg\source\repos\SDETQ2\obj\Debug\net5.0\SDETQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachelg\source\repos\SDETQ2\obj\Debug\net5.0\SDETQ2.AssemblyInfoInputs.cache
+C:\Users\rachelg\source\repos\SDETQ2\obj\Debug\net5.0\SDETQ2.AssemblyInfo.cs
+C:\Users\rachelg\source\repos\SDETQ2\obj\Debug\net5.0\SDETQ2.csproj.CoreCompileInputs.cache
+C:\Users\rachelg\source\repos\SDETQ2\obj\Debug\net5.0\SDETQ2.dll
+C:\Users\rachelg\source\repos\SDETQ2\obj\Debug\net5.0\ref\SDETQ2.dll
+C:\Users\rachelg\source\repos\SDETQ2\obj\Debug\net5.0\SDETQ2.pdb
+C:\Users\rachelg\source\repos\SDETQ2\obj\Debug\net5.0\SDETQ2.genruntimeconfig.cache
